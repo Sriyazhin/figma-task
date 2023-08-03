@@ -1,0 +1,217 @@
+.financialpart{
+  height: 150px;
+  width: 1359px;
+  padding: 80px;   
+  background-color: rgb(221, 219, 219);
+}
+.subfinancialpart{
+  display: flex;
+  width: 1350px;
+  height: 186px;
+  gap: 40px;
+  margin-left: 40px;
+  background-color: rgb(221, 219, 219);
+}
+
+.mainicon{
+width: 70px;
+height: 69.18px;
+}
+.maintitle{
+width: 560px;
+height: 140px;
+font-weight: 700;
+font-size: 44px;
+position: relative;
+bottom: 14px;
+}
+.borderline{
+  border: 1px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 15px;
+}
+.mainparapart{
+width: 500px;
+height: 186px;
+padding-top: 9px;
+}
+.parapart{
+
+  width: 500px;
+  height: 93px;
+  line-height: 25px;
+}
+.buttonone{
+  padding-top: 5px;
+}
+.getquote{
+  width: 118px;
+  height: 54px;
+ border: none;
+ border-radius: 10px;
+  background-color: orangered;
+}
+
+/*------for cards-----*/
+
+.cardsdivision{
+height: 1752px;
+width: 1428px;
+padding-left: 90px;
+background-color: rgb(221, 219, 219);
+display: flex;
+flex-wrap: wrap;
+}
+.cardone{
+width: 405px;
+margin-right: 24px;
+padding: 12px;
+background-color: #FFFFFF;
+border-radius: 15px;
+margin-bottom: 24px;
+}
+.forsubicons{
+padding-top: 20px;
+}
+.fortitles{
+
+font-weight: bold;
+font-size: 26px;
+line-height: 28px;
+margin-top: 15px;
+}
+.forcontent{
+margin-top: 15px;
+position: relative;
+padding-bottom: 20px;
+
+}
+.rectangle{
+  /* background-color: white; */
+  position: absolute;
+  bottom: 0px;
+  top: 80px;
+  width: 406px;
+  height: 50px;
+  opacity: 0.8;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 21.97%, #FFFFFF 88%);
+  
+}
+.cardline{
+opacity: 0.4;
+}
+.forsubbuttons{
+display: flex;
+margin-top: 20px;
+}
+.learnmorebutton{
+font-weight: bold;
+font-size: 15px;
+}
+
+.getquotebutton{
+margin-left: 160px;
+font-weight: bold;
+font-size: 15px;
+color: rgb(253, 92, 33);
+}
+.getquote{
+  color: white;
+}
+.arroworange{
+  margin-left: 10px;
+  position: relative;
+  top: 2px;
+}
+/*------card id adjustment -----*/
+#publicliability{
+  margin-right: 120px;
+}
+#propertyinsurance{
+  margin-right: 120px;
+}
+#moneyins{
+  margin-right: 200px;
+}
+#fidelity{
+  margin-right: 120px;
+}
+#theft{
+margin-right: 250px;
+}
+#crimebond{
+margin-right: 180px;
+}
+#business{
+margin-right: 150px;
+}
+#sabotage{
+margin-right: 120px;
+}
+#allrisks{
+margin-right: 200px;
+}
+#marine{
+margin-right: 200px;
+}
+
+/*-----protectpart------*/
+
+.protectemployeepart{
+  height: 663px;
+  padding: 80px;
+  background-color: rgb(221, 219, 219);
+}
+.bothpara{
+  margin-top: 10px;
+}
+.whyproject{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: 800;
+  font-size: 28px;
+}
+.thesaudi{
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+.secondsetcards{
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8px;
+}
+.secondcards{
+width: 253px;
+margin-right: 15px;
+padding-top: 24px;
+border: 1px solid rgb(4, 4, 4,0.1) ;
+border-radius: 5px;
+padding-bottom: 20px;
+}
+.secondseticons{
+width: 48.52px;
+margin-left: 24px;
+}
+.secondsettitle{
+width: 220px;
+font-size: 22px;
+font-weight: 700;
+margin-left: 24px;
+margin-top: 10px;
+
+}
+.secondsetpara{
+width: 210px;
+margin-left: 24px;
+font-size: 13px;
+margin-top: 10px;
+
+}

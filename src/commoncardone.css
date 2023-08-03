@@ -1,0 +1,61 @@
+.cardone{
+    width: 405px;
+    margin-right: 24px;
+    padding: 12px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin-bottom: 24px;
+    }
+    .forsubicons{
+    padding-top: 20px;
+    }
+    .fortitles{
+    
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 28px;
+    margin-top: 15px;
+    }
+    .forcontent{
+    margin-top: 15px;
+    position: relative;
+    padding-bottom: 20px;
+    
+    }
+    .rectangle{
+      
+      position: absolute;
+      bottom: 0px;
+      top: 80px;
+      width: 406px;
+      height: 50px;
+      opacity: 0.8;
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 21.97%, #FFFFFF 88%);
+      
+    }
+    .cardline{
+    opacity: 0.4;
+    }
+    .forsubbuttons{
+    display: flex;
+    margin-top: 20px;
+    }
+    .learnmorebutton{
+    font-weight: bold;
+    font-size: 15px;
+    }
+    
+    .getquotebutton{
+    margin-left: 160px;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(253, 92, 33);
+    }
+    .getquote{
+      color: white;
+    }
+    .arroworange{
+      margin-left: 10px;
+      position: relative;
+      top: 2px;
+    }
