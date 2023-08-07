@@ -1,0 +1,13 @@
+.boxone{
+    display: flex;
+    width: 648px;
+    background-color: white;
+    padding: 14px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.forcontentinbox{
+    margin-left: 15px;
+    position: relative;
+    top: 5px;
+}

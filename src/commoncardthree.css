@@ -1,0 +1,90 @@
+.thirdcardsone{
+    background-image: url('/src/assets/images/familyimage.png');
+    background-color: rgba(60, 149, 182);
+    background-size: cover;
+    margin-right: 20px;
+    width: 400px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+  }
+  .thirdcardstwo{
+    background-image: url('/src/assets/images/djimage.png');
+    background-color: rgb(227, 27, 87);
+    background-size: cover;
+    margin-right: 20px;
+    width: 400px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+  }
+  .thirdcardsthree{
+    background-image: url('/src/assets/images/workingimage.png');
+    background-color: rgb(77, 148, 199);
+    background-size: cover;
+    margin-right: 20px;
+    width: 400px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+  }
+  .forithra{
+    width: 380.33px;
+  }
+  .tawuniya{
+    width: 380.33px;
+    padding-top: 40px;
+    color: white;
+  }
+  .ithra{
+    width: 135px;
+  }
+  
+  .tawuniyaimage{
+    width: 200px;
+    position: relative;
+    top: 5px;
+  }
+
+  .ithraimage{
+    width: 135px;
+  }
+  #membership{
+    position: relative;
+    top: 25px;
+  }
+  #specialservice{
+    position: relative;
+    bottom: 13px;
+  }
+  .tajlogo{
+    width: 80px;
+  }
+  .offerandlearnmore{
+    margin-top: 165px;
+  }
+  .offers{
+    font-size: 20px;
+    color: white;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  .arrowandlearnpart{
+    margin-top: 15px;
+    display: flex;
+    padding-bottom: 25px;
+  }
+  .arrow{
+    background-color: white;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 50px;
+  }
+  .learnmore{
+    margin-left: 15px;
+    color: white;
+    font-size: 14px;
+  }
