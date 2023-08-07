@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/figma-task/static/css/main.a9ac3ec3.css",
+    "main.js": "/figma-task/static/js/main.20080ba5.js",
+    "static/js/787.5863b875.chunk.js": "/figma-task/static/js/787.5863b875.chunk.js",
+    "static/media/familyimage.png": "/figma-task/static/media/familyimage.85e49e7239abed0a9b8a.png",
+    "static/media/workingimage.png": "/figma-task/static/media/workingimage.1a769c6ec8cd987006ce.png",
+    "static/media/djimage.png": "/figma-task/static/media/djimage.11fc385d6b9a36893de2.png",
+    "index.html": "/figma-task/index.html",
+    "main.a9ac3ec3.css.map": "/figma-task/static/css/main.a9ac3ec3.css.map",
+    "main.20080ba5.js.map": "/figma-task/static/js/main.20080ba5.js.map",
+    "787.5863b875.chunk.js.map": "/figma-task/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ac3ec3.css",
+    "static/js/main.20080ba5.js"
+  ]
+}
